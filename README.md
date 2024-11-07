@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicodez09&label=Profile%20views&color=0e75b6&style=flat" alt="alicodez09" /> </p>
 
-- 👨‍💻 My Personal Portfolio is [https://alicode.vercel.app](https://alicode.vercel.app)
 
 - 💬 Ask me about **react,react-native and node-js**
 
