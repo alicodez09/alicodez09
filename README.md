@@ -1,12 +1,23 @@
 <div align="center">
 
 
+  Hello, I'm Ali Abbas! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-# 👋 Hello, I'm Ali Abbas! 
 
 **Full-Stack Developer | Backend Developer | Problem Solver**
 
 </div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ali_abbas.09/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodez09@gmail.com)
+
+</div>
+
+---
 
 ---
 <div align="center">
@@ -14,13 +25,13 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Old Code GIF" width="100%">
+       <img src="https://i.imgur.com/aTMLvyA.jpg" width="100%"/>
     </td>
     <td width="50%">
       <h2>🚀 About Me</h2>
       <div align="left">
         ✨ Passionate developer creating innovative solutions<br><br>
-        🌱 Constantly learning and exploring cutting-edge technologies<br><br>
+        🌱 Constantly learning and exploring new technologies<br><br>
         💡 Turning ideas into reality through clean, efficient code<br><br>
         📫 Reach me at: <b>alicodez09@gmail.com</b><br><br>
         ⚡ Turning ideas into reality through code!
@@ -32,6 +43,10 @@
 </div>
 
 ---
+<div align="center">
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZahoorOnly&theme=minimal&hide_border=true&bg_color=transparent&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363D&hide_title=true&custom_title=&grid_color=ffffff&title_color=ffffff" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -78,15 +93,5 @@
 ---
 
 
-## 🤝 Let's Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicode)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ali_abbas.09/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodez09@gmail.com)
-
-</div>
-
----
 
